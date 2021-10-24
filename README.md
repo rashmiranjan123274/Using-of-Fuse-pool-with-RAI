@@ -6,4 +6,6 @@ Hello
  # Lets know about Fuse 
  Fuse is the first truly open interest rate protocol. Lend, borrow, and create isolated lending markets with unlimited flexibility.
 It allows users to create a pool, selecting their own assets, interest rate curves, and oracles. Any user can then enter and exit the pools trustlessly without consulting a DAO.Moreover, the ability to lend and borrow any asset is a radical step forward, unlike any other platform in the traditional world. 
+Fuse allows users to enter and exit lending and borrowing positions using unique assets and settings. If you have ever use protocols such as Compound or Aave,It operate similarly, but ,it has a new element of customization and present more options which are helpful to user.
 #
+
