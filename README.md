@@ -22,4 +22,11 @@ After successful connection we can supply eth or any defi token and after supply
 **This seems be like this after supply in verified fuse pool we can borrow and main thing is always use collateral**
 
 ![Screenshot_2021-10-25-00-30-50-69](https://user-images.githubusercontent.com/84318174/138608806-2f2200ca-1d77-401f-a3d7-ea5f1c451fd7.png)
+
+After borrow token we go to the uniswap and farm toke as i take rai/dai you can take any pair to farm token
+
+![Screenshot_2021-10-25-00-37-08-37](https://user-images.githubusercontent.com/84318174/138609035-c26bd83b-d1d5-4f50-bab3-1f2f421bece4.png)
+
+After all these thing as more time you stake or farm token can produce more token.After that you can sell your defi token on uniswap which are staked.
+Thank you:)
  
