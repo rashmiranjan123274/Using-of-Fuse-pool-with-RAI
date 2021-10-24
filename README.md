@@ -13,4 +13,6 @@ First as we know borrow can be done by the user if he/she invest his asset to th
 **First we need to connect with wallet**
 ![IMG_20211024_220927](https://user-images.githubusercontent.com/84318174/138607453-11854021-2a09-43e2-a2c6-3c579246c474.jpg)
 
-The value showed is that value contribute to the pool by user.After connecting the wallet
+The value showed is that value contribute to the pool by user.After connecting the wallet in the bottom thereare top most project with a great pool.if you want to participate in any pool then simple spend your asset and got profit from it as loan to value ratio LTV more LTV Percentage give you better profit 
+
+![Screenshot_2021-10-25-00-07-43-35](https://user-images.githubusercontent.com/84318174/138608004-f5ecaa4a-552f-4aa5-9a3b-bd3eceed86c6.png)
