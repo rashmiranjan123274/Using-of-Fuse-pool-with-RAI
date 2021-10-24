@@ -19,7 +19,7 @@ The value showed is that value contribute to the pool by user.After connecting t
 
 # BORROW RAI 
 After successful connection we can supply eth or any defi token and after supply in the pool we are going to borrow rai and the borrowed token could be use to farm in uniswap by the simple method. As we connect our metamask wallet to fuse or you can use any wallet like trust wallet but i suggest if you could done it by metamask it would better after supply and borrow we can use same wallet to connect with uniswapv3.If you ask us how there are multiple method for doing this. As i know a method we can import our metamask wallet to trust wallet by phase key. After importing the wallet in dapp we can connect our wallet to uniswap and farm our token 
-**This seems be like this after supply in verified fuse pool we can borrow
+**This seems be like this after supply in verified fuse pool we can borrow and main thing is always use collateral**
 
 ![Screenshot_2021-10-25-00-30-50-69](https://user-images.githubusercontent.com/84318174/138608806-2f2200ca-1d77-401f-a3d7-ea5f1c451fd7.png)
- **
+ 
