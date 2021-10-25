@@ -31,6 +31,6 @@ After borrow token we go to the uniswap and farm toke as i take rai/dai you can 
 
 After all these thing as more time you stake or farm token can produce more token.After that you can sell your defi token on uniswap which are staked.
 
-#Now lets move to AAVE 
+# Now lets move to AAVE 
 
  
