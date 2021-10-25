@@ -55,6 +55,8 @@ Now we are going to deposit ETH or aave token in aave market website. After depo
 we can stake our defi token with higher Apr percentage to get much more profit.
  ![Screenshot_2021-10-26-00-05-37-69](https://user-images.githubusercontent.com/84318174/138751199-e2bad373-5c1f-4e79-9cb1-04edcb5f3b76.png)
  
+ # Swap 
+After the staking period over we can swap those defi token got fron staking to aave or rai or ETH or any defi token.Now you can sell or hold or do any kind of things of those token.
 
 
 
