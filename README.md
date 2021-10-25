@@ -33,4 +33,6 @@ After all these thing as more time you stake or farm token can produce more toke
 
 # Now lets move to AAVE 
 
- 
+Aave is a decentralized lending system that allows users to lend, borrow and earn interest on crypto assets, 
+Aave instead is a system of smart contracts that enables these assets to be managed by a distributed network of computers running its software. 
+ Like other decentralized lending systems on Ethereum, Aave borrowers must post collateral before they can borrow. Further, they can only borrow up to the value of the collateral they post. 
