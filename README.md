@@ -50,5 +50,8 @@ At first we need to connect our wallet with aave market website
 There is a 3 line baar behind the wallet connection placed. After click on that the dashboard showing to you where we can easily understood what are the thing and what to do because aave is a usee friendly Api due to that everyone can easily use it.
 ![Screenshot_2021-10-25-23-51-39-00](https://user-images.githubusercontent.com/84318174/138749745-bb084086-9547-415c-a439-c3d522c9b224.png)
 
+# Stake asset 
+Now we are going to deposit ETH or aave token in aave market website. After depositing the asset successfully we gonna to the borrow page as we get it by same process on clicking 3 line bar.Now we can borrow some rai token with ltv after borrrowing any defi token next we gonna to stake those token with a pool to get profit.These are the token which borrowed 
+
 
 
