@@ -10,7 +10,7 @@ Fuse allows users to enter and exit lending and borrowing positions using unique
 
 # Borrow Token 
 First as we know borrow can be done by the user if he/she invest his asset to the pool to earn lending interest or be used as collateral.users can borrow from the same set of assets with some exceptions that will be covered later. Pool creators not only build these sets of assets, but they also choose certain parameters such as Loan to Value ratio. This ratio defines the maximum amount of tokens in the pool that can be borrowed with specific collateral.
-**First we need to connect with wallet**
+**First we need to connect with wallet**with https://app.rari.capital/fuse 
 ![IMG_20211024_220927](https://user-images.githubusercontent.com/84318174/138607453-11854021-2a09-43e2-a2c6-3c579246c474.jpg)
 
 The value showed is that value contribute to the pool by user.After connecting the wallet in the bottom thereare top most project with a great pool.if you want to participate in any pool then simple spend your asset and got profit from it as loan to value ratio LTV more LTV Percentage give you better profit 
