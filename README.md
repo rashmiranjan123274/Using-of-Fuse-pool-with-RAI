@@ -47,5 +47,8 @@ At first we need to connect our wallet with aave market website
  It is similar as we previously use rari fuse pool. The same thing done with this aave. As it shown in below image 
  ![Screenshot_2021-10-25-23-48-55-00](https://user-images.githubusercontent.com/84318174/138748868-1789d3b6-931c-40fa-8481-815a274fc7d4.png)
 
+There is a 3 line baar behind the wallet connection placed. After click on that the dashboard showing to you where we can easily understood what are the thing and what to do because aave is a usee friendly Api due to that everyone can easily use it.
+![Screenshot_2021-10-25-23-51-39-00](https://user-images.githubusercontent.com/84318174/138749745-bb084086-9547-415c-a439-c3d522c9b224.png)
+
 
 
