@@ -38,4 +38,8 @@ Aave instead is a system of smart contracts that enables these assets to be mana
  Like other decentralized lending systems on Ethereum, Aave borrowers must post collateral before they can borrow. Further, they can only borrow up to the value of the collateral they post. 
 Users deposit funds they wish to lend, which are then collected into a pool. Borrowers may then draw from those pools when they take out a loan. These tokens can be traded or transferred as a lender wishes. 
 
-# Borrow Rai from Aave
+# Borrow Rai from Aave 
+
+At first we need to connect our wallet with aave market website
+
+ https://app.aave.com/#/markets
