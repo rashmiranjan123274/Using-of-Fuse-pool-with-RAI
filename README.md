@@ -42,4 +42,9 @@ Users deposit funds they wish to lend, which are then collected into a pool. Bor
 
 At first we need to connect our wallet with aave market website
 
- https://app.aave.com/#/markets
+ https://app.aave.com/#/markets 
+ After a successful connection with wallet then we supply defi token like eth,rai,dai etc from our wallet.After supplying token to aave we go to borrow rai or dai as you want to borrow to your wallet address.
+ It is similar as we previously use rari fuse pool. The same thing done with this aave. As it shown in below image 
+ 
+
+
