@@ -24,7 +24,7 @@ After successful connection we can supply eth or any defi token and after supply
 ![Screenshot_2021-10-25-00-30-50-69](https://user-images.githubusercontent.com/84318174/138608806-2f2200ca-1d77-401f-a3d7-ea5f1c451fd7.png)
 
 # UniswapV3 
-The Uniswap protocol is a peer-to-peer1 system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain.
+The Uniswap protocol is a peer-to-peer1 system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain.There are currently three versions of the Uniswap protocol. V1 and V2 are open source and licensed under GPL. V3 is open source with slight modifications,
 After borrow token we go to the uniswap and farm toke as i take rai/dai you can take any pair to farm token
 
 ![Screenshot_2021-10-25-00-37-08-37](https://user-images.githubusercontent.com/84318174/138609035-c26bd83b-d1d5-4f50-bab3-1f2f421bece4.png)
